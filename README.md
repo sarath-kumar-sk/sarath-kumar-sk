@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sarathkumar251997@gmail.com**
 
-- 📄 Know about my experiences [I have 8 years of experience as a Full Stack PHP Developer, specializing in building scalable, secure, and high-performance web applications.](I have 8 years of experience as a Full Stack PHP Developer, specializing in building scalable, secure, and high-performance web applications.)
+- 📄 Know about my experiences ** I have 8 years of experience as a Full Stack PHP Developer, specializing in building scalable, secure, and high-performance web applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
